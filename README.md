@@ -10,11 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/arunkrofficial/pens/showcase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/arunkrofficial/pens/showcase" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-kumar-305849267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-kumar-305849267/" height="30" width="40" /></a>
-<a href="https://instagram.com/@arunkrofficial_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arunkrofficial_" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@arunkrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@arunkrofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqoqfyxuv8xkicu7-nqgtpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqoqfyxuv8xkicu7-nqgtpw" height="30" width="40" /></a>
+<a href="https://codepen.io/arunkrofficial/pens/showcase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/arunkrofficial/pens/showcase" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arun-kumar-305849267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-kumar-305849267/" height="30" width="40" /></a>
+<a href="https://instagram.com/arunkrofficial_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@arunkrofficial_" height="30" width="40" /></a>
+<a href="https://hashnode.com/@arunkrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@arunkrofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucqoqfyxuv8xkicu7-nqgtpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqoqfyxuv8xkicu7-nqgtpw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
