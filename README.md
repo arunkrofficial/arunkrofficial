@@ -1,3 +1,4 @@
+![logo](https://github.com/arunkrofficial/arunkrofficial/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arun Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
